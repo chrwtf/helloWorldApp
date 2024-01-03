@@ -1,0 +1,15 @@
+D:\Reprository\helloWorldApp\helloWorldApp\bin\Debug\net6.0\helloWorldApp.exe
+D:\Reprository\helloWorldApp\helloWorldApp\bin\Debug\net6.0\helloWorldApp.deps.json
+D:\Reprository\helloWorldApp\helloWorldApp\bin\Debug\net6.0\helloWorldApp.runtimeconfig.json
+D:\Reprository\helloWorldApp\helloWorldApp\bin\Debug\net6.0\helloWorldApp.dll
+D:\Reprository\helloWorldApp\helloWorldApp\bin\Debug\net6.0\helloWorldApp.pdb
+D:\Reprository\helloWorldApp\helloWorldApp\obj\Debug\net6.0\helloWorldApp.csproj.AssemblyReference.cache
+D:\Reprository\helloWorldApp\helloWorldApp\obj\Debug\net6.0\helloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reprository\helloWorldApp\helloWorldApp\obj\Debug\net6.0\helloWorldApp.AssemblyInfoInputs.cache
+D:\Reprository\helloWorldApp\helloWorldApp\obj\Debug\net6.0\helloWorldApp.AssemblyInfo.cs
+D:\Reprository\helloWorldApp\helloWorldApp\obj\Debug\net6.0\helloWorldApp.csproj.CoreCompileInputs.cache
+D:\Reprository\helloWorldApp\helloWorldApp\obj\Debug\net6.0\helloWorldApp.dll
+D:\Reprository\helloWorldApp\helloWorldApp\obj\Debug\net6.0\refint\helloWorldApp.dll
+D:\Reprository\helloWorldApp\helloWorldApp\obj\Debug\net6.0\helloWorldApp.pdb
+D:\Reprository\helloWorldApp\helloWorldApp\obj\Debug\net6.0\helloWorldApp.genruntimeconfig.cache
+D:\Reprository\helloWorldApp\helloWorldApp\obj\Debug\net6.0\ref\helloWorldApp.dll
